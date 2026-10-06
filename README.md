@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Антон 👋
 
-<!--
-**GrudistovAnton/GrudistovAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса специальности "Информационные системы и программирование". 
+Начинающий C#-разработчик, изучаю WPF и базы данных.
 
-Here are some ideas to get you started:
+## Что умею
+-C#, WPF (базовый уровень)
+- MS Access, Excel, Word
+- Английский - B1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты 
+- [Просмотрщик изображений](https://github.com/GrudistovAnton/Image-viewer-wpf)
+
+## Контакты
+- Email: aga37121@gmail.com
+- hh.ru: (https://biysk.hh.ru/resume/cb7f1ea1ff112f04860039ed1f585253356455)
