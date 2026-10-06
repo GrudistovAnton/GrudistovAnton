@@ -10,6 +10,7 @@
 
 ## Мои проекты 
 - [Просмотрщик изображений](https://github.com/GrudistovAnton/Image-viewer-wpf)
+- [Конвертер валют](https://github.com/GrudistovAnton/Currency-converter-wpf)
 
 ## Контакты
 - Email: aga37121@gmail.com
