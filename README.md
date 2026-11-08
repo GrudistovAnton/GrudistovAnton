@@ -9,6 +9,7 @@
 - Английский - B1
 
 ## Мои проекты 
+- [Десктопное приложение с базой данных MS Access](https://github.com/GrudistovAnton/STO-Database-App)
 - [Просмотрщик изображений](https://github.com/GrudistovAnton/Image-viewer-wpf)
 - [Конвертер валют](https://github.com/GrudistovAnton/Currency-converter-wpf)
 - [База данных СТО (MS Access)](https://github.com/GrudistovAnton/database-access-cto)
